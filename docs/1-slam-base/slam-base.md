@@ -20,3 +20,7 @@ RGBD相机是2010年左右开始兴起的一种相机，它最大的特点是可
 -基本框架 。四个模块（除去传感器数据读取）：VO、后端、建图、回环检测。这里我们简要介绍各模块的涵义，之后再详细介绍其使用方法。
 
 ![slam-框架](https://github.com/lsy563193/image/raw/master/slam-kuangjia.jpg)
+
+
+参考
+[1](https://www.leiphone.com/news/201609/iAe3f8qmRHXavgSl.html)
